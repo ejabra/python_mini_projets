@@ -6,7 +6,7 @@
 
 _Projets réalisés dans le cadre de la formation JobInTech (Data Engineering)_.
 
-[📂 Explorer le code](https://github.com/ejabra/python_mini_projets/tree/brahim) · [🐞 Signaler un bug](../../issues)
+[📂 Explorer le code](#) · [🐞 Signaler un bug](../../issues)
 
 </div>
 
@@ -69,8 +69,8 @@ Une application de gestion financière personnelle.
 Chaque projet est indépendant. Pour en tester un :
 
 1.  Clonez le dépôt :
-   ```bash
-    git clone [https://github.com/ejabra/python-mini-projects.git](https://github.com/ejabra/python-mini-projects.git)
+    ```bash
+    git clone https://github.com/ejabra/python-mini-projects.git
     ```
 2.  Accédez au dossier du projet et lancez le script :
     ```bash
