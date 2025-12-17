@@ -6,7 +6,7 @@
 
 _Projets réalisés dans le cadre de la formation JobInTech (Data Engineering)_.
 
-[📄 Lire le Rapport de Présentation (PDF)](rapportMini-projets.pdf)
+[📄 Lire le Rapport de Présentation (PDF)](docs/rapportMini-projets.pdf)
 
 <br>
 
